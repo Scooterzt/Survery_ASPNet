@@ -1,0 +1,9 @@
+*{
+    margin: 8px;
+}
+body{
+    height: 500px;
+    width: 800px;
+    text-align: center;
+    background-image: linear-gradient(White, lightblue);
+}
